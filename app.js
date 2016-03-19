@@ -13,9 +13,3 @@ http.createServer(function (request, response) {
 }).listen(1337);
 
 console.log("Sever running at http://127.0.0.1:1337/");
-
-
-
-// Function that handles the reading of files and merge in values
-  // Read from file and get a string
-    // Merge values into string
